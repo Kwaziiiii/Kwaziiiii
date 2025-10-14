@@ -16,10 +16,10 @@
 ```js
 /**
  * Represents me.
- * @param {string} city - Île de France, France.
- * @param {string[]} languages - ["Français", "Anglais", "Arabe", "Russe (notions)"].
- * @param {string} jobTitle - Étudiante en BTS SIO SLAM.
- * @param {string} specialization - Développement web, cybersécurité, backend.
+ * @param {string} city - Région Rabat, Maroc.
+ * @param {string[]} languages - ["Français", "Anglais", "Arabe", ].
+ * @param {string} jobTitle - Étudiante en année préparatoire.
+ * @param {string} specialization - Développement web.
  * @param {string[]} strengths - ["Autonomie", "Résilience", "Esprit d'équipe", "Curiosité", "Gestion du stress"].
  * @param {string[]} interests - ["Technologie", "Lecture", "Photographie"].
  * @param {string} github - "https://github.com/Kwaziiiii"
